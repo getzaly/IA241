@@ -36,4 +36,3 @@ print(my_car)
 print(len(my_car))
 
 print('red' in my_car)
-
